@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: #0dbfd6;
+}
+
+body {
+	background-color: #872cbf;
+}
+
+ul {
+	list-style-type: square;
+}
+
+.list1 {
+	list-style-type: none;
+}
+
+div {
+	border: #41a2e8 4px solid;
+	background: #41dde8;
+}
+
+li {
+	text-transform: uppercase; 
+}
+
+p {
+	font-style: italic;
+}
+
+.fuk {
+	color: #f00e1d;
+}
+
+img {
+	border-radius: 140px;
+}
+
+
